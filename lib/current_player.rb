@@ -21,4 +21,3 @@ else
   return "X"
 end
 end
-end
