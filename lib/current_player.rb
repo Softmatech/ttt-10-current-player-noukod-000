@@ -5,4 +5,5 @@ def turn_count(board)
     if charac == "X" || charac == "O"
       tour += log10
     end
+  end
 end
